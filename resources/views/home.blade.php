@@ -1,6 +1,5 @@
 @extends('index')
 @section('title', 'Home')
-
 @section('content')
 <div class="jumbotron text-light" style="background-image: url('https://cdn.auth0.com/blog/laravel-6-crud/laravel-beach-bg.png')">
     <div class="container">
